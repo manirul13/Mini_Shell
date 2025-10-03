@@ -73,5 +73,5 @@ Mini_Shell/
 Add history and tab completion
 
 🤝 Contribution
-Pull requests are welcome!
+Pull requests are welcome! Here I'm your friend to help you.
 For major changes, please open an issue first to discuss what you would like to change.
